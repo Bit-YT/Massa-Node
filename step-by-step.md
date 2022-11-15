@@ -1,4 +1,4 @@
-# Running Massa-Node
+# Running Massa-Node | Follow me: *[@Bitcrypto_](https://twitter.com/Bitcrypto_)* :)
 
 * Full Documentation : https://docs.massa.net/en/latest/testnet/install.html
 * Join discord : https://discord.gg/NXWYS46y
