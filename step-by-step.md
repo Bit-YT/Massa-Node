@@ -57,6 +57,7 @@ rustc --version
 ufw allow ssh
 ufw allow 31244
 ufw allow 31245
+ufw allow 33035
 ufw enable
 ```
 check list port
